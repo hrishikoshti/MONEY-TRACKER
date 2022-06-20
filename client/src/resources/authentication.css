@@ -1,0 +1,70 @@
+.register {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+}
+
+.lottie{
+    height: 400px;
+}
+
+.register input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid rgba(175, 175, 175, 0.793) !important;
+    color: rgba(211, 33, 140, 0.701) !important;
+    text-shadow: 2px 2px 8px #fdfdfd !important;
+}
+
+input:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+label, a{
+    color: rgba(52, 52, 52, 0.729) !important;
+}
+
+.register h1{
+    font-size: 20px !important;
+}
+
+
+/* Login */
+
+
+.Login {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+}
+
+.lottie{
+    height: 400px;
+}
+
+.Login input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.916) !important;
+    color: rgba(211, 33, 140, 0.701) !important;
+    text-shadow: 2px 2px 8px #fdfdfd !important;
+}
+
+input:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+label, a{
+    color: rgba(255, 255, 255, 0.729) !important;
+}
+
+.Login h1{
+    font-size: 20px !important;
+    color: white;
+}
